@@ -1,0 +1,904 @@
+{
+    "teams": [
+        {
+            "name": "Ag2r-La Mondiale",
+            "description": "Vincent Lavenu celebrated the 20th anniversary of his professional team in early 2012. And the amazing story still goes on! The oldest French squad still in the peloton has had three main sponsors throughout its lifetime: Chazal, Casino and Ag2r. It has featured twenty times in the Tour de France, where it has been a permanent fixture since 1997 with varying degrees of success, ranging from the fall from grace of its leaders Rodolfo Massi (1998) and Francisco Mancebo (2006) to Rinaldo Nocentini's eight-day adventure in yellow in 2009.<br/>This Savoyard team was founded in Chamb\u00e9ry and has been based there ever since. It owes local riders much of its lustre. Some of them come from Rh\u00f4ne-Alpes, such as Sylvain Calzati, who won the stage to Lorient in 2006, or Cyril Dessel, who wore yellow and finished sixth overall (best ever result by one of Lavenu's riders) the same year. Others are home-grown talents, such as Estonia's Jaan Kirsipuu, who stayed with Lavenu from 1992 to 2004, winning four stages and spending six days in yellow in 1999 in the process, as well as Picard Christophe Riblon, who started on the track and went on two win two mountain stages, in 2010 and 2013, an edition where he was awarded the Tour de France combativity prize..<br/>Ag2r-La Mondiale regularly hits the jackpot in the Tour de France, most recently when it hired Jean-Christophe P\u00e9raud. In 2011, the Olympic MTB silver medallist finished tenth in his Tour de France debut at the age of 34, while in 2012 he finished second in the stage to Annonay-Dav\u00e9zieux, only to tragically crash out of the Embrun-Chorges time trial in 2013. It also boasts one of the leading emerging French riders in its ranks: Romain Bardet, best Frenchman in the 2013 Tour (15th) and one of the symbols of this team which combines sport and education in Chamb\u00e9ry.",
+            "riders": [
+                {
+                    "name": "Jean-Christophe P\u00c9RAUD",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/81.jpg",
+                    "weight": "62",
+                    "born": "1977/05/22"
+                },
+                {
+                    "name": "Romain BARDET",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/82.jpg",
+                    "weight": "67",
+                    "born": "1990/11/09"
+                },
+                {
+                    "name": "Mikael CHEREL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/83.jpg",
+                    "weight": "65",
+                    "born": "1986/03/17"
+                },
+                {
+                    "name": "Samuel DUMOULIN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/84.jpg",
+                    "weight": "56",
+                    "born": "1980/08/20"
+                },
+                {
+                    "name": "Ben GASTAUER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/85.jpg",
+                    "weight": "72",
+                    "born": "1987/11/14"
+                },
+                {
+                    "name": "Blel KADRI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/86.jpg",
+                    "weight": "66",
+                    "born": "1986/09/03"
+                },
+                {
+                    "name": "S\u00e9bastien MINARD",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/87.jpg",
+                    "weight": "65",
+                    "born": "1982/06/12"
+                },
+                {
+                    "name": "Matteo MONTAGUTI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/88.jpg",
+                    "weight": "66",
+                    "born": "1984/01/06"
+                },
+                {
+                    "name": "Christophe RIBLON",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/89.jpg",
+                    "weight": "65",
+                    "born": "1981/01/17"
+                }
+            ]
+        },
+        {
+            "name": "Belkin Pro Cycling Team",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Bauke MOLLEMA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/61.jpg",
+                    "weight": "64",
+                    "born": "1986/11/26"
+                },
+                {
+                    "name": "Lars BOOM",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/62.jpg",
+                    "weight": "72",
+                    "born": "1985/12/30"
+                },
+                {
+                    "name": "Stef CLEMENT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/63.jpg",
+                    "weight": "66",
+                    "born": "1982/09/24"
+                },
+                {
+                    "name": "Steven KRUIJSWIJK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/64.jpg",
+                    "weight": "66",
+                    "born": "1987/06/07"
+                },
+                {
+                    "name": "Thomas LEEZER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/65.jpg",
+                    "weight": "70",
+                    "born": "1985/12/26"
+                },
+                {
+                    "name": "Bram TANKINK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/66.jpg",
+                    "weight": "71",
+                    "born": "1978/12/03"
+                },
+                {
+                    "name": "Laurens TEN DAM",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/67.jpg",
+                    "weight": "67",
+                    "born": "1980/11/13"
+                },
+                {
+                    "name": "Sep VANMARCKE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/68.jpg",
+                    "weight": "75",
+                    "born": "1988/07/28"
+                },
+                {
+                    "name": "Maarten WYNANTS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/69.jpg",
+                    "weight": "79",
+                    "born": "1982/05/13"
+                }
+            ]
+        },
+        {
+            "name": "Tinkoff-Saxo",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Alberto CONTADOR",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/31.jpg",
+                    "weight": "61",
+                    "born": "1982/12/06"
+                },
+                {
+                    "name": "Daniele BENNATI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/32.jpg",
+                    "weight": "71",
+                    "born": "1980/09/24"
+                },
+                {
+                    "name": "Jesus Alberto HERNANDEZ BLAZQUEZ",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/33.jpg",
+                    "weight": "58",
+                    "born": "1981/09/28"
+                },
+                {
+                    "name": "Rafal MAJKA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/34.jpg",
+                    "weight": "62",
+                    "born": "1989/09/12"
+                },
+                {
+                    "name": "Michael MORKOV",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/35.jpg",
+                    "weight": "69",
+                    "born": "1985/04/30"
+                },
+                {
+                    "name": "Sergio Miguel Moreira PAULINHO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/36.jpg",
+                    "weight": "64",
+                    "born": "1980/03/26"
+                },
+                {
+                    "name": "Nicolas ROCHE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/37.jpg",
+                    "weight": "70",
+                    "born": "1984/07/03"
+                },
+                {
+                    "name": "Michael ROGERS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/38.jpg",
+                    "weight": "74",
+                    "born": "1979/12/20"
+                },
+                {
+                    "name": "Matteo TOSATTO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/39.jpg",
+                    "weight": "74",
+                    "born": "1974/05/14"
+                }
+            ]
+        },
+        {
+            "name": "Movistar Team",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Alejandro VALVERDE BELMONTE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/11.jpg",
+                    "weight": "61",
+                    "born": "1980/04/25"
+                },
+                {
+                    "name": "Imanol ERVITI OLLO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/12.jpg",
+                    "weight": "75",
+                    "born": "1983/11/15"
+                },
+                {
+                    "name": "John GADRET",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/13.jpg",
+                    "weight": "58",
+                    "born": "1979/04/22"
+                },
+                {
+                    "name": "Jesus HERRADA LOPEZ",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/14.jpg",
+                    "weight": "71",
+                    "born": "1990/07/26"
+                },
+                {
+                    "name": "Benat INTXAUSTI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/15.jpg",
+                    "weight": "59",
+                    "born": "1986/03/20"
+                },
+                {
+                    "name": "Jon IZAGUIRRE INSAUSTI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/16.jpg",
+                    "weight": null,
+                    "born": "1989/02/04"
+                },
+                {
+                    "name": "Ruben PLAZA MOLINA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/17.jpg",
+                    "weight": "77",
+                    "born": "1980/02/29"
+                },
+                {
+                    "name": "Jos\u00e9 Joaquin ROJAS GIL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/18.jpg",
+                    "weight": "69",
+                    "born": "1985/06/08"
+                },
+                {
+                    "name": "Giovanni VISCONTI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/19.jpg",
+                    "weight": "62",
+                    "born": "1983/01/13"
+                }
+            ]
+        },
+        {
+            "name": "BMC Racing Team",
+            "description": "The BMC Racing Team rose from the ashes of the Phonak squad and hastened its comeback to elite cycling with the opportunity to sign then world champion Cadel Evans in late 2009. His unexpected defeat at the hands of Carlos Sastre in 2008 had not taken the edge off the Aussie's burning ambition, and he was at loggerheads with Silence-Lotto. He took back the yellow jersey in Avoriaz during the 2010 Tour, but a broken elbow caused him to surrender it after just one day. This did not stop him from finishing the race despite the pain.<br/>In 2011, in contrast, everything fell into place for him: Second in the Les Essarts team time trial, while Evans went on to triumph on the \"Breton Alpe d'Huez\" (M\u00fbr-de-Bretagne) before moving within striking distance of yellow on the real Alpe d'Huez, the last climb of the 98th Tour de France. He then leapfrogged Andy Schleck in the Grenoble time trial to become the first Tour de France champion from the Southern Hemisphere (and the first former mountain biker).<br/>The team's financial backer, Swiss billionaire Andy Rihs, was on cloud nine. After all the hard knocks of the Landis affair in 2006, this wine and cycling aficionado had sworn he would never head a team again. But he never really abandoned his riders, and this time he found a real Tour de France champion. Evans has now passed on the baton to Tejay van Garderen, consecrating the best young rider of the 2012 Tour as the sole leader of an extremely versatile team which was electrified by Allan Peiper's appointment as general manager following a lacklustre July 2013.",
+            "riders": [
+                {
+                    "name": "Tejay VAN GARDEREN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/141.jpg",
+                    "weight": "72",
+                    "born": "1988/08/12"
+                },
+                {
+                    "name": "John Darwin ATAPUMA",
+                    "image": "http://www.letour.fr/img/v6/coureurx.jpg",
+                    "weight": null,
+                    "born": "1988/01/15"
+                },
+                {
+                    "name": "Marcus BURGHARDT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/143.jpg",
+                    "weight": "75",
+                    "born": "1983/06/30"
+                },
+                {
+                    "name": "Ama\u00ebl MOINARD",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/144.jpg",
+                    "weight": "69",
+                    "born": "1982/02/02"
+                },
+                {
+                    "name": "Daniel OSS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/145.jpg",
+                    "weight": "75",
+                    "born": "1987/01/13"
+                },
+                {
+                    "name": "Michael SCH\u00c4R",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/146.jpg",
+                    "weight": "74",
+                    "born": "1986/09/29"
+                },
+                {
+                    "name": "Peter STETINA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/147.jpg",
+                    "weight": "63",
+                    "born": "1987/08/08"
+                },
+                {
+                    "name": "Greg VAN AVERMAET",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/148.jpg",
+                    "weight": "74",
+                    "born": "1985/05/17"
+                },
+                {
+                    "name": "Peter VELITS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/149.jpg",
+                    "weight": "63",
+                    "born": "1985/02/21"
+                }
+            ]
+        },
+        {
+            "name": "Trek Factory Racing",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Frank SCHLECK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/161.jpg",
+                    "weight": "65",
+                    "born": "1980/04/15"
+                },
+                {
+                    "name": "Matthew BUSCHE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/162.jpg",
+                    "weight": "70",
+                    "born": "1985/05/09"
+                },
+                {
+                    "name": "Fabian CANCELLARA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/163.jpg",
+                    "weight": "80",
+                    "born": "1981/03/18"
+                },
+                {
+                    "name": "Markel IRIZAR ARRANBURU",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/164.jpg",
+                    "weight": "73",
+                    "born": "1980/02/05"
+                },
+                {
+                    "name": "Gregory RAST",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/165.jpg",
+                    "weight": "78",
+                    "born": "1980/01/17"
+                },
+                {
+                    "name": "Andy SCHLECK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/166.jpg",
+                    "weight": "68",
+                    "born": "1985/06/10"
+                },
+                {
+                    "name": "Danny VAN POPPEL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/167.jpg",
+                    "weight": null,
+                    "born": "1993/07/26"
+                },
+                {
+                    "name": "Jens VOIGT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/168.jpg",
+                    "weight": "76",
+                    "born": "1971/09/17"
+                },
+                {
+                    "name": "Haimar ZUBELDIA AGIRRE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/169.jpg",
+                    "weight": "68",
+                    "born": "1977/04/01"
+                }
+            ]
+        },
+        {
+            "name": " Team Europcar",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Pierre ROLLAND",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/151.jpg",
+                    "weight": "67",
+                    "born": "1986/10/10"
+                },
+                {
+                    "name": "Yukiya ARASHIRO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/152.jpg",
+                    "weight": "64",
+                    "born": "1984/09/22"
+                },
+                {
+                    "name": "Bryan COQUARD",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/153.jpg",
+                    "weight": null,
+                    "born": "1992/04/25"
+                },
+                {
+                    "name": "Cyril GAUTIER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/154.jpg",
+                    "weight": "64",
+                    "born": "1987/09/26"
+                },
+                {
+                    "name": "Yohann GENE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/155.jpg",
+                    "weight": "67",
+                    "born": "1981/06/25"
+                },
+                {
+                    "name": "Alexandre PICHOT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/156.jpg",
+                    "weight": "72",
+                    "born": "1983/01/06"
+                },
+                {
+                    "name": "Perrig QUEMENEUR",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/157.jpg",
+                    "weight": "67",
+                    "born": "1984/04/26"
+                },
+                {
+                    "name": "K\u00e9vin REZA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/158.jpg",
+                    "weight": null,
+                    "born": "1988/05/18"
+                },
+                {
+                    "name": "Thomas VOECKLER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/159.jpg",
+                    "weight": "71",
+                    "born": "1979/06/22"
+                }
+            ]
+        },
+        {
+            "name": "Lampre-Merida",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Rui Alberto COSTA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/111.jpg",
+                    "weight": "69",
+                    "born": "1986/10/05"
+                },
+                {
+                    "name": "Davide CIMOLAI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/112.jpg",
+                    "weight": "69",
+                    "born": "1989/08/13"
+                },
+                {
+                    "name": "Kristijan DURASEK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/113.jpg",
+                    "weight": null,
+                    "born": "1987/07/26"
+                },
+                {
+                    "name": "Christopher HORNER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/114.jpg",
+                    "weight": "70",
+                    "born": "1971/10/23"
+                },
+                {
+                    "name": "Sacha MODOLO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/115.jpg",
+                    "weight": null,
+                    "born": "1987/06/19"
+                },
+                {
+                    "name": "Nelson OLIVEIRA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/116.jpg",
+                    "weight": "66",
+                    "born": "1989/03/06"
+                },
+                {
+                    "name": "Ariel Maximiliano RICHEZE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/117.jpg",
+                    "weight": null,
+                    "born": "1983/03/07"
+                },
+                {
+                    "name": "Jos\u00e9 SERPA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/118.jpg",
+                    "weight": null,
+                    "born": "1979/04/17"
+                },
+                {
+                    "name": "Rafael VALLS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/119.jpg",
+                    "weight": null,
+                    "born": "1987/06/25"
+                }
+            ]
+        },
+        {
+            "name": "Omega Pharma-Quick Step Cycling Team",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Mark CAVENDISH",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/71.jpg",
+                    "weight": "70",
+                    "born": "1985/05/21"
+                },
+                {
+                    "name": "Jan BAKELANTS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/72.jpg",
+                    "weight": "70",
+                    "born": "1986/02/14"
+                },
+                {
+                    "name": "Michal GOLAS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/73.jpg",
+                    "weight": "65",
+                    "born": "1984/04/29"
+                },
+                {
+                    "name": "Michal KWIATKOWSKI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/74.jpg",
+                    "weight": "68",
+                    "born": "1990/06/02"
+                },
+                {
+                    "name": "Tony MARTIN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/75.jpg",
+                    "weight": "75",
+                    "born": "1985/04/23"
+                },
+                {
+                    "name": "Alessandro PETACCHI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/76.jpg",
+                    "weight": "70",
+                    "born": "1974/01/03"
+                },
+                {
+                    "name": "Mark RENSHAW",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/77.jpg",
+                    "weight": "72",
+                    "born": "1982/10/22"
+                },
+                {
+                    "name": "Niki TERPSTRA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/78.jpg",
+                    "weight": "75",
+                    "born": "1984/05/18"
+                },
+                {
+                    "name": "Matteo TRENTIN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/79.jpg",
+                    "weight": null,
+                    "born": "1989/08/02"
+                }
+            ]
+        },
+        {
+            "name": "Lotto-Belisol",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Jurgen VAN DEN BROECK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/131.jpg",
+                    "weight": "68",
+                    "born": "1983/02/01"
+                },
+                {
+                    "name": "Lars BAK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/132.jpg",
+                    "weight": "76",
+                    "born": "1980/01/16"
+                },
+                {
+                    "name": "Bart DE CLERCQ",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/133.jpg",
+                    "weight": "67",
+                    "born": "1986/08/26"
+                },
+                {
+                    "name": "Tony GALLOPIN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/134.jpg",
+                    "weight": "70",
+                    "born": "1988/05/24"
+                },
+                {
+                    "name": "Andr\u00e9 GREIPEL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/135.jpg",
+                    "weight": "75",
+                    "born": "1982/07/16"
+                },
+                {
+                    "name": "Adam HANSEN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/136.jpg",
+                    "weight": "75",
+                    "born": "1981/05/11"
+                },
+                {
+                    "name": "Gregory HENDERSON",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/137.jpg",
+                    "weight": "75",
+                    "born": "1976/09/10"
+                },
+                {
+                    "name": "Jurgen ROELANDTS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/138.jpg",
+                    "weight": "78",
+                    "born": "1985/07/02"
+                },
+                {
+                    "name": "Marcel SIEBERG",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/139.jpg",
+                    "weight": "80",
+                    "born": "1982/04/30"
+                }
+            ]
+        },
+        {
+            "name": "FDJ.fr",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Arnaud DEMARE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/121.jpg",
+                    "weight": null,
+                    "born": "1991/08/26"
+                },
+                {
+                    "name": "William BONNET",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/122.jpg",
+                    "weight": "78",
+                    "born": "1982/06/25"
+                },
+                {
+                    "name": "Micka\u00ebl DELAGE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/123.jpg",
+                    "weight": "70",
+                    "born": "1985/08/06"
+                },
+                {
+                    "name": "Arnold JEANNESSON",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/124.jpg",
+                    "weight": "65",
+                    "born": "1986/01/16"
+                },
+                {
+                    "name": "Matthieu LADAGNOUS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/125.jpg",
+                    "weight": "73",
+                    "born": "1984/12/12"
+                },
+                {
+                    "name": "Cedric PINEAU",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/126.jpg",
+                    "weight": "68",
+                    "born": "1985/05/08"
+                },
+                {
+                    "name": "Thibaut PINOT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/127.jpg",
+                    "weight": "63",
+                    "born": "1990/05/29"
+                },
+                {
+                    "name": "J\u00e9r\u00e9my ROY",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/128.jpg",
+                    "weight": "70",
+                    "born": "1983/06/22"
+                },
+                {
+                    "name": "Arthur VICHOT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/129.jpg",
+                    "weight": "69",
+                    "born": "1988/11/26"
+                }
+            ]
+        },
+        {
+            "name": "Cofidis, solutions cr\u00e9dits",
+            "description": "The Cofidis team\u2019s first manager was Cyrille Guimard, who left after the first year (1997). From the very beginning, the team seduced great names of world cycling who nevertheless did not manage to shine in the Tour de France with Cofidis: Lance Armstrong, Maurizio Fondriest, Tony Rominger, Francesco Casagrande, Frank Vandenbroucke\u2026 American Bobby Julich (who would later admit to doping) clinched third place in the 1998 Tour, but it was in 2000 that a new chapter in the team's history was written when its Scottish star David Millar took the yellow jersey in his Tour de France debut in the symbolic setting of Futuroscope, and the squad sponsored by the phone loan company lit up France in July.<br/>Millar's namesake David Moncouti\u00e9 personifies the continuity of the sponsor from the Nord department in the world of cycling. With eleven Tour de France starts, the retired expert climber has lived through all the ups and downs of the Cofidis team and bagged two stage wins in the process. The first one came in Figeac, in his home department of Lot, thus earning him a special place in the annals of the Grande Boucle!<br/>The Cofidis star has faded somewhat following their relegation to the second division in 2009 and the loss of their best men (including their most recent stage winner Sylvain Chavanel), but the team's 17-year history still makes it a mainstay of French cycling. The arrival of a new manager, Yvon Sanquer, halfway through the 2012 season breathed new life into the team. As the only French team which managed to put a rider, Spain's Dani Navarro, in the final top\u00a010 (ninth) in 2013, it has the potential to take the fight to Pro Teams.",
+            "riders": [
+                {
+                    "name": "Daniel NAVARRO GARCIA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/171.jpg",
+                    "weight": "64",
+                    "born": "1983/07/18"
+                },
+                {
+                    "name": "Nicolas EDET",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/172.jpg",
+                    "weight": "60",
+                    "born": "1987/12/02"
+                },
+                {
+                    "name": "Egoitz GARCIA ECHEGUIBEL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/173.jpg",
+                    "weight": null,
+                    "born": "1986/03/31"
+                },
+                {
+                    "name": "Cyril LEMOINE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/174.jpg",
+                    "weight": "70",
+                    "born": "1983/03/03"
+                },
+                {
+                    "name": "Luis Angel MATE MARDONES",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/175.jpg",
+                    "weight": "69",
+                    "born": "1984/03/23"
+                },
+                {
+                    "name": "Rudy MOLARD",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/176.jpg",
+                    "weight": null,
+                    "born": "1989/09/17"
+                },
+                {
+                    "name": "Adrien PETIT",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/177.jpg",
+                    "weight": "80",
+                    "born": "1990/09/26"
+                },
+                {
+                    "name": "Julien SIMON",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/178.jpg",
+                    "weight": "65",
+                    "born": "1985/10/04"
+                },
+                {
+                    "name": "Rein TAARAM\u00c4E",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/179.jpg",
+                    "weight": "67",
+                    "born": "1987/04/24"
+                }
+            ]
+        },
+        {
+            "name": "IAM Cycling",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Mathias FRANK",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/191.jpg",
+                    "weight": "64",
+                    "born": "1986/12/09"
+                },
+                {
+                    "name": "Sylvain CHAVANEL",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/192.jpg",
+                    "weight": "70",
+                    "born": "1979/06/30"
+                },
+                {
+                    "name": "Martin ELMIGER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/193.jpg",
+                    "weight": "71",
+                    "born": "1978/09/23"
+                },
+                {
+                    "name": "Heinrich HAUSSLER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/194.jpg",
+                    "weight": "68",
+                    "born": "1984/02/25"
+                },
+                {
+                    "name": "Reto HOLLENSTEIN",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/195.jpg",
+                    "weight": "74",
+                    "born": "1985/08/22"
+                },
+                {
+                    "name": "Roger KLUGE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/196.jpg",
+                    "weight": "83",
+                    "born": "1986/02/05"
+                },
+                {
+                    "name": "J\u00e9r\u00f4me PINEAU",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/197.jpg",
+                    "weight": "71",
+                    "born": "1980/01/02"
+                },
+                {
+                    "name": "S\u00e9bastien REICHENBACH",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/198.jpg",
+                    "weight": null,
+                    "born": "1989/05/28"
+                },
+                {
+                    "name": "Marcel WYSS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/199.jpg",
+                    "weight": "60",
+                    "born": "1986/06/25"
+                }
+            ]
+        },
+        {
+            "name": " NetApp-Endura",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Leopold KONIG",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/201.jpg",
+                    "weight": null,
+                    "born": "1987/11/15"
+                },
+                {
+                    "name": "Jan BARTA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/202.jpg",
+                    "weight": "73",
+                    "born": "1984/12/07"
+                },
+                {
+                    "name": "David DE LA CRUZ MELGAREJO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/203.jpg",
+                    "weight": null,
+                    "born": "1989/05/06"
+                },
+                {
+                    "name": "Zakkari DEMPSTER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/204.jpg",
+                    "weight": null,
+                    "born": "1987/09/27"
+                },
+                {
+                    "name": "Bartosz HUZARSKI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/205.jpg",
+                    "weight": null,
+                    "born": "1980/10/27"
+                },
+                {
+                    "name": "Tiago MACHADO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/206.jpg",
+                    "weight": "63",
+                    "born": "1985/10/18"
+                },
+                {
+                    "name": "Jos\u00e9 PIMENTA COSTA MENDES",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/207.jpg",
+                    "weight": null,
+                    "born": "1985/04/24"
+                },
+                {
+                    "name": "Andreas SCHILLINGER",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/208.jpg",
+                    "weight": "70",
+                    "born": "1983/07/13"
+                },
+                {
+                    "name": "Paul VOSS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/209.jpg",
+                    "weight": "66",
+                    "born": "1986/03/26"
+                }
+            ]
+        },
+        {
+            "name": "Tinkoff-Saxo",
+            "description": "",
+            "riders": [
+                {
+                    "name": "Alberto CONTADOR",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/31.jpg",
+                    "weight": "61",
+                    "born": "1982/12/06"
+                },
+                {
+                    "name": "Daniele BENNATI",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/32.jpg",
+                    "weight": "71",
+                    "born": "1980/09/24"
+                },
+                {
+                    "name": "Jesus Alberto HERNANDEZ BLAZQUEZ",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/33.jpg",
+                    "weight": "58",
+                    "born": "1981/09/28"
+                },
+                {
+                    "name": "Rafal MAJKA",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/34.jpg",
+                    "weight": "62",
+                    "born": "1989/09/12"
+                },
+                {
+                    "name": "Michael MORKOV",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/35.jpg",
+                    "weight": "69",
+                    "born": "1985/04/30"
+                },
+                {
+                    "name": "Sergio Miguel Moreira PAULINHO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/36.jpg",
+                    "weight": "64",
+                    "born": "1980/03/26"
+                },
+                {
+                    "name": "Nicolas ROCHE",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/37.jpg",
+                    "weight": "70",
+                    "born": "1984/07/03"
+                },
+                {
+                    "name": "Michael ROGERS",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/38.jpg",
+                    "weight": "74",
+                    "born": "1979/12/20"
+                },
+                {
+                    "name": "Matteo TOSATTO",
+                    "image": "http://www.letour.fr/PHOTOS/TDF/2014/RIDERS/39.jpg",
+                    "weight": "74",
+                    "born": "1974/05/14"
+                }
+            ]
+        }
+    ]
+}
