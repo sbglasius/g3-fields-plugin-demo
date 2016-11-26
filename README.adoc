@@ -1,0 +1,5 @@
+= Fields Plugin Demo project
+
+This project contains the demo for the talk I gave at G3Summit in 2016.
+
+Each commit is a step in building the final demo. Use `git reset --hard` at any commit to get the current step, or feel free to use the final templates at your leisure.
