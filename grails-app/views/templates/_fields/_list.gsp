@@ -1,9 +1,9 @@
-<ol class="property-list ${domainClass.propertyName}">
-    <g:each in="${domainClass.persistentProperties}" var="p">
-        <li class="fieldcontain">
-            <span id="${p.name}-label" class="property-label"><g:message code="${domainClass.propertyName}.${p.name}.label" default="${p.naturalName}"/></span>
+<fieldset>
+<g:each in="${domainClass.persistentProperties}" var="p">
+    <div class="form-group">
+        <label class="control-label"><g:message code="${domainClass.propertyName}.${p.name}.label" default="${p.naturalName}"/></label>
 
-            <div class="property-value" aria-labelledby="${p.name}-label">${body(p)}</div>
-        </li>
-    </g:each>
-</ol>
+        <p class="form-control-static" aria-labelledby="${p.name}-label">${body(p)}</p>
+    </div>
+</g:each>
+</fieldset>
