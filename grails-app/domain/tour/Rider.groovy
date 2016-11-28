@@ -14,7 +14,7 @@ class Rider {
         }
         speciality nullable: true,
                    inList: ['Climber','Puncheur','Sprinter','All-rounder']
-        notes nullable: true, maxSize: 4000
+        notes nullable: true, maxSize: 4000, widget: 'textarea'
     }
     static belongsTo = [team: Team]
 }
