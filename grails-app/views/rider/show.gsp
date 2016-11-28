@@ -19,7 +19,17 @@
             <g:if test="${flash.message}">
             <div class="message" role="status">${flash.message}</div>
             </g:if>
-            <f:display bean="rider" />
+            <fieldset>
+                <f:with bean="rider">
+                    <f:display property="name"/>
+                    <f:display property="image"/>
+                    <f:display property="team"/>
+                    <f:display property="born"/>
+                    <f:display property="weight"/>
+                    <f:display property="speciality"/>
+                    <f:display property="notes"/>
+                </f:with>
+            </fieldset>
             <g:form resource="${this.rider}" method="DELETE">
                 <fieldset class="buttons">
                     <g:link class="edit" action="edit" resource="${this.rider}"><g:message code="default.button.edit.label" default="Edit" /></g:link>
