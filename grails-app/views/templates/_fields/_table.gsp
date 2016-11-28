@@ -1,4 +1,5 @@
-<table>
+<div class="table-responsive">
+<table class="table table-bordered">
     <thead>
          <tr>
             <g:each in="${domainProperties}" var="p" status="i">
@@ -22,3 +23,4 @@
         </g:each>
     </tbody>
 </table>
+</div>
