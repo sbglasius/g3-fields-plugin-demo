@@ -13,7 +13,8 @@ class Rider {
             if(value.after(new Date())) { "not.born.yet" }
         }
         speciality nullable: true,
-                   inList: ['Climber','Puncheur','Sprinter','All-rounder']
+                   inList: ['Climber','Puncheur','Sprinter','All-rounder'],
+                   widget: 'select'
         notes nullable: true, maxSize: 4000, widget: 'textarea'
     }
     static belongsTo = [team: Team]
