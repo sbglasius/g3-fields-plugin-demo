@@ -1,0 +1,1 @@
+<g:formatNumber number="${value}"/> kg
