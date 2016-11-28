@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <asset:stylesheet src="application.css"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker3.standalone.css" rel="stylesheet">
 
     <g:layoutHead/>
 </head>
@@ -46,6 +47,8 @@
     </div>
 
     <asset:javascript src="application.js"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
+    <asset:deferredScripts/>
 
 </body>
 </html>
